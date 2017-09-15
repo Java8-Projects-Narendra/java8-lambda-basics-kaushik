@@ -27,6 +27,7 @@ public class GreetingLambda {
 		greetLambda.greet(() -> System.out.println("Lambda way 2 greeting"));
 		
 		//Commit from master branch
+		//Commit from Test branch
 
 	}
 
